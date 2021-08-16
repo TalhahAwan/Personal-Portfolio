@@ -1,23 +1,50 @@
 .nav-item {
     padding-right: 25px;
+    font-size: x-large;
 }
 
-.nav-item-left{
+.nav-item-left {
 padding-left: 25px;
+font-size: xx-large;
+font-weight: 550;
+padding-bottom: 60px;
 }
 
-.nav-wrapper-left{
+.nav-wrapper-left {
     display: flex;
     justify-content: flex-start;
     width: 75%;
 }
 
-.nav-wrapper-right{
+.nav-wrapper-right {
     display: flex;
     justify-content: flex-end;
     width: 25%;
 }
 
-.nav-container{
+.nav-container {
     display: flex;
+}
+
+.my-image {
+    padding-left: 700px;
+}
+
+.header-font {
+    font-family: sans-serif;
+    color: white;
+    text-align: center;
+    line-height: .9cm;
+    padding-left: 350px;
+    padding-right: 350px;
+}
+
+.footer-font {
+    font-family: sans-serif;
+    color: white;
+    text-align: center;
+    line-height: .9cm;
+    padding-left: 350px;
+    padding-right: 350px;
+    background-color: black;
 }
