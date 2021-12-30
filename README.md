@@ -16,7 +16,11 @@ I learned better CSS styling tactics and HTML outlining.
 
 ## Usage
 
-![Personal-Portfolio-Screen-Shot](Images/Personal-Portfolio_Screen-Shot.PNG) <br>
+![Portfolio-SS](https://user-images.githubusercontent.com/88115822/147723072-f9ec4bea-bac3-4800-abec-0c2cb17bebb0.PNG)
+![Portfolio-SS2](https://user-images.githubusercontent.com/88115822/147723076-4d794a1d-f7e8-44c3-ab37-d58d222c23e9.PNG)
+![Portfolio-SS3](https://user-images.githubusercontent.com/88115822/147723078-1dcab3a5-9114-4855-b1e8-67d994816c27.PNG)
+
+
 
 ## Credits
 https://www.markdownguide.org/basic-syntax/
